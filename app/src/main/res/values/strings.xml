@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ReadDeviceSpecApp</string>
+    <string name="submit">Submit</string>
+    <string name="model">Model: %s</string>
+    <string name="manufacture">Manufacture: %s</string>
+    <string name="board">Board: %s</string>
+    <string name="radio">Radio: %s</string>
+    <string name="device_id">Device ID: %s</string>
+    <string name="serial">Serial: %s</string>
+</resources>
